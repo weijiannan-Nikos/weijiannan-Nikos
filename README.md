@@ -11,4 +11,6 @@ I aim to cultivate academic independence and intellectual freedom, guided by Pro
 In my spare time I also watch old films and listen to old songs from around the world—especially Soviet songs—and classical music, with a particular fondness for Shostakovich. When I have time, I attend concerts by the Macao Orchestra and the Macao Chinese Orchestra.
 
 Homepage: https://weijiannan-nikos.github.io/
+
+
 ![](https://komarev.com/ghpvc/?username=weijiannan-Nikos&color=dc143c)
